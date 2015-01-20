@@ -74,6 +74,7 @@ tinymce.PluginManager.add('textcolor', function(editor) {
 			"CCFFFF", "Pale cyan",
 			"99CCFF", "Light sky blue",
 			"CC99FF", "Plum"
+			"a3bc54", "THGreen"
 		];
 
 		for (i = 0; i < colorMap.length; i += 2) {
